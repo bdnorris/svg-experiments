@@ -1,6 +1,6 @@
 # svg-experiments
 
-> A Vue.js project
+> A Vue.js project for general SVG experimentation and learnings.
 
 ## Build Setup
 
